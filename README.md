@@ -22,7 +22,7 @@ The project provides a series of exercises for practicing pandas—a powerful Py
    ```
    git clone https://github.com/CodeSaadUmair/pandas_exercises_personal.git
    cd pandas_exercises_personal
-   '''
+  
 2. **Explore the Exercises:**
   - Browse through the folders and files to find exercises on various pandas topics.
   - Open the notebooks or scripts to see detailed solutions and explanations.
